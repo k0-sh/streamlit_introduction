@@ -1,0 +1,3 @@
+
+streamlitのターミナル上での起動方法
+streamlit run main.py
